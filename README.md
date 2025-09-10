@@ -36,10 +36,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/chat-app.git
 cd chat-app
+```
+---
 
+## 📂 Project Structure 
 
-
-
+```bash
 
 chat-app/
 │
@@ -54,3 +56,4 @@ chat-app/
 │   └── server.js    # Entry point
 │
 └── README.md
+```
