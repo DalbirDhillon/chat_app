@@ -34,7 +34,7 @@ The app allows users to seamlessly exchange messages with an intuitive interface
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/DalbirDhillon/chat-app.git
 cd chat-app
 ```
 ---
