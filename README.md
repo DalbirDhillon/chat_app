@@ -36,3 +36,21 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/chat-app.git
 cd chat-app
+
+
+
+
+
+chat-app/
+│
+├── client/          # React frontend
+│   ├── public/
+│   └── src/
+│
+├── server/          # Node.js + Express backend
+│   ├── models/      # Mongoose schemas
+│   ├── routes/      # API endpoints
+│   ├── socket/      # Socket.io handlers
+│   └── server.js    # Entry point
+│
+└── README.md
